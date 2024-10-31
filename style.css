@@ -1,0 +1,159 @@
+body{
+	margin: 0;
+}
+header{
+	width: 99%;
+	height: 40px;
+	background-color: darkslategray;
+	border-radius: 15px;
+	position: relative;
+	top: -20px;
+	border: 3px solid white;
+}
+h2{
+	position: relative;
+	top: 13px;
+	text-align: center;
+	color: lightyellow;
+	text-shadow: 0 0 7px green;
+}
+.a{
+	position: relative;
+	top: 15px;
+	text-align: center;
+	color: lightyellow;
+	font-size: 24px;
+	text-shadow: 0 0 7px red;
+	margin-left: 82px;
+	text-decoration: none;
+}
+h1{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif; 
+	text-align: center;
+	text-shadow: 0 3px 7px green;
+}
+h3{
+	color: white;
+	margin-left: 17%;
+	margin-top: 0.51%;
+	text-shadow: 0 0 7px green;
+	font-size: 150%;
+}
+p{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif; 
+	color: lightcyan;
+}
+li{
+	color: lightcyan;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+footer{
+	width: 98,8%;
+	height: 150px;
+	border: 5px solid slategrey;
+	border-radius: 10px;
+	position: relative;
+	top: 40px;
+}
+td{
+	border-bottom: 1px solid white;
+	/*border-top: 1px solid white;*/
+}
+table{
+	color: lightcyan;
+	text-align: center;
+}
+.left{
+	width: 30%;
+	height: 1430px;
+	background-color: black;
+	background-image: url("img/bg.jpg");
+	background-size: 100% 1430px;
+	background-repeat: no-repeat;
+	float: left;
+}
+.right{
+	width: 30%;
+	height: 1430px;
+	background-color: black;
+	background-image: url("img/bg.jpg");
+	background-size: 100% 1430px;
+	background-repeat: no-repeat;
+	float: right;
+	transform: rotate(180deg);
+}
+.center{
+	width: 40%;
+	height: 1430px;
+	background-color: black;
+	background-image: url("https://kartinki.pics/uploads/posts/2021-07/1626830325_17-kartinkin-com-p-amerikanskii-orekh-shpon-tekstura-besshovn-17.jpg");
+	background-size: 100% 1430px;
+	background-repeat: no-repeat;
+	float: left;
+}
+.zatemneniye{
+	width: 100%;
+	height: 1430px;
+	background-color: rgba(0,0,0,0.3);
+	float: left;
+}
+.div{
+	border: 4px dashed black;
+	text-align: center;
+	color: white;
+	margin-top: 20px;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif; 
+	box-shadow: 0 0 10px white;
+	width: 97.8%;
+}
+.h2{
+	color: white;
+}
+.li{
+	text-shadow: 0 0 7px dodgerblue;
+}
+.h22{
+	color: white;
+	margin-left: 17%;
+	margin-top: 0.1%;
+	text-shadow: 0 0 7px green;
+	font-size: 150%;
+}
+.img2{
+	width: 10%;
+	height: 45%;
+	border-radius: 22%;
+	position: relative;
+	top: -15px;
+	left: 140px;
+}
+.img1{
+	width: 10%;
+	height: 45%;
+	border-radius: 22%;
+	position: relative;
+	top: -15px;
+	left: 99px;
+}
+.h222{
+	color: white;
+	margin-top: -10px;
+	text-shadow: 0 0 7px green;
+	font-size: 150%;
+}
+.h3{
+	text-shadow: 0 0 7px darkviolet;
+	text-align: center;
+	margin-right: 120px;
+}
+.p{
+	margin-top: -20px;
+}
+.h2222{
+	color: white;
+	text-shadow: 0 0 10px yellow;
+
+}
